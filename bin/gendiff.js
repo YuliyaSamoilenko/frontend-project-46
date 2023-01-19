@@ -9,4 +9,4 @@ program
   .version('-v, --vers', 'output the current version')
   .option('-h, --help', 'display help for command')
 ;
-              
+program();            
